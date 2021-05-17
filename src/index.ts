@@ -1,4 +1,5 @@
 // common\src\index.ts
+// re-export stuff from errors and middlewatres
 
 export * from './errors/bad-request-error';
 export * from './errors/database-connection-error';
